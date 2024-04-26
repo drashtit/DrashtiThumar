@@ -4,16 +4,21 @@ drashtithummar19@gmail.com || 7162596516 || https://www.linkedin.com/in/drashti-
 
 ## EDUCATION
 University at Buffalo, State University of New York 					                         Aug 2022 – Dec 2023
+
 Courses:	Analysis & Design of Algorithm, Machine Learning, Statistical Learning, Numerical Mathematics, Probability, Python Programming, Data Structures,  Pattern Recognition,  Data Compression
 
 Master of Science – Engineering Science Data Science 				                           CGPA: 3.77/4.00
+
 Gujarat Technological University (GTU), Ahmedabad, India		      		        	       Aug 2018 - May 2022
 Bachelor of Engineering – Computer Science      					        	                   CGPA: 9.28/10.00
 
 ## TECHNICAL SKILLS 
 Prog Lang.:	Python (Pandas, Matplotlib, Seaborn), SQL, R, C#, JavaScript, Unix/Linux Scripting
+
 Tools:	Tableau, PowerBI, DataBricks, CI/CD (Jenkins, GitLab), AWS, BitBucket, Docker, Kubernetes
+
 Frameworks:	Scikit-learn, TensorFlow, PyTorch, Django, Flask, .NET, Selenium (Web scrapping)
+
 Database:	MySQL, Oracle PL/SQL, RDBMS, NoSQL, PostgreSQL, S3
 
 ## WORK EXPERIENCE
@@ -57,5 +62,5 @@ Time Series Analysis of fluctuations in US Government Bond Yields | R, ARIMA,GAR
 •	Fetched data from online resources, generated data pipeline to remove redundancy, stored data with structured format.
 •	Notified Autocorrelation and value of lag parameter, visualized fluctuations within time, performed time series analysis.
 •	Compared different trends and developed statistics to forecast data with 92% accuracy with GARCH model in RStudio.
-![image](https://github.com/drashtit/drashti-t.github.io/assets/115091081/bab29598-dc2a-46db-9029-fd8fbfa571bb)
+
 
