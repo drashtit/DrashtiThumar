@@ -4,13 +4,11 @@ drashtithummar19@gmail.com || 7162596516 || https://www.linkedin.com/in/drashti-
 
 ## EDUCATION
 University at Buffalo, State University of New York (Aug 2022 – Dec 2023)
-
 Master of Science – Engineering Science Data Science 				                           CGPA: 3.77/4.00
 
 Courses:	Analysis & Design of Algorithm, Machine Learning, Statistical Learning, Numerical Mathematics, Probability, Python Programming, Data Structures,  Pattern Recognition,  Data Compression
 
 Gujarat Technological University (GTU), Ahmedabad, India (Aug 2018 - May 2022)
-
 Bachelor of Engineering – Computer Science      					        	                   CGPA: 9.28/10.00
 
 ## TECHNICAL SKILLS 
