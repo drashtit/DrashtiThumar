@@ -1,4 +1,4 @@
-# DrashtiThumar
+# Drashti Thummar
 
 drashtithummar19@gmail.com || 7162596516 || https://www.linkedin.com/in/drashti-thummar/ (Open to relocate)
 
